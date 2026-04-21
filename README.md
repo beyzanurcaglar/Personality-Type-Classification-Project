@@ -4,6 +4,7 @@ This project aims to compare the performance of different machine learning model
 
 ## Dataset Information
 The project utilizes the Extrovert vs Introvert Behavior Data dataset.
+* **Source of Dataset:** https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data
 * **Observation Count:** 2900
 * **Features:** 7 features + 1 target variable
 * **Class Distribution:** Extrovert (1491), Introvert (1409
